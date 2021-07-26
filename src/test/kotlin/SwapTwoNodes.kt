@@ -1,5 +1,4 @@
-import io.pixelook.dailyProblem.Node
-import io.pixelook.dailyProblem.swapEveryTwo
+import io.pixelook.dailyProblem.swapTwoNodes.*
 import kotlin.test.*
 
 class SwapTwoNodes {

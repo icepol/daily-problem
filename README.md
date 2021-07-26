@@ -4,6 +4,9 @@ https://www.techseries.dev/daily
 
 ## Problems
 
+- [Filter binary tree leaves](doc/filter-binary-tree-leaves.md)
+- [Nearest points](doc/nearest-points.md)
+- [Maze paths](doc/maze-paths.md)
 - [Swap two nodes](doc/swap-every-two-nodes-in-a-linked-list.md)
 - [Check for palindrome](doc/check-for-palindrome.md)
 - [Optimized list sum](doc/optimized-list-sum.md)

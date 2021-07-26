@@ -1,4 +1,4 @@
-package io.pixelook.dailyProblem
+package io.pixelook.dailyProblem.swapTwoNodes
 
 data class Node(
     val value: Int,
