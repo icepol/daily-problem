@@ -4,6 +4,10 @@ https://www.techseries.dev/daily
 
 ## Problems
 
+- [Swap bits](doc/swap-bits.md) [[solution](src/main/kotlin/io/pixelook/dailyProblem/SwapBits.kt)|[test](src/test/kotlin/SwapBitsTest.kt)]
+- [Reverse words](doc/reverse-words.md) [[solution](src/main/kotlin/io/pixelook/dailyProblem/ReverseWords.kt)|[test](src/test/kotlin/ReverseWordsTest.kt)]
+- [Flatten dictionary](doc/flatten-dictionary.md) [[solution](src/main/kotlin/io/pixelook/dailyProblem/FlattenDictionary.kt)|[test](src/test/kotlin/FlattenDictionaryTest.kt)]
+- [Character map](doc/character-map.md) [[solution](src/main/kotlin/io/pixelook/dailyProblem/CharacterMap.kt)|[test](src/test/kotlin/CharacterMapTest.kt)]
 - [Filter binary tree leaves](doc/filter-binary-tree-leaves.md) [[solution](src/main/kotlin/io/pixelook/dailyProblem/filterBinaryTreeLeaves/FilterBinaryTreeLeaves.kt)|[test](src/test/kotlin/FilterBinaryTreeLeavesTest.kt)]
 - [Nearest points](doc/nearest-points.md) [[solution](src/main/kotlin/io/pixelook/dailyProblem/nearesPoints/NearestPoints.kt)|[test](src/test/kotlin/NearestPointsTest.kt)]
 - [Maze paths](doc/maze-paths.md) [[solution](src/main/kotlin/io/pixelook/dailyProblem/MazePaths.kt)|[test](src/test/kotlin/MazePathsTest.kt)]
